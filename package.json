@@ -1,0 +1,26 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Pedro Pasquali",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasqualipedro/toDo_back-end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pasqualipedro/toDo_back-end/issues"
+  },
+  "homepage": "https://github.com/pasqualipedro/toDo_back-end#readme",
+  "description": ""
+}
